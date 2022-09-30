@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakesh Raparthi
 - 👀 I’m interested in learning Testing libraries, Test frameworks, programming languages
 - 🌱 I’m currently learning JavaScript and PlayWright
-- 💞️ I’m looking to collaborate on Seleniu, Cypress, Karate, Appium, Rest Assured
+- 💞️ I’m looking to collaborate on Selenium, Cypress, Karate, Appium, Rest Assured
 - 📫 How to reach me raparthiqa18@gmail.com
 
 <!---
