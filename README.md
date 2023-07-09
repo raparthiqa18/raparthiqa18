@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rakesh Raparthi
 - 👀 I’m interested in learning Testing libraries, Test frameworks, programming languages
-- 🌱 I’m currently learning JavaScript and PlayWright
-- 💞️ I’m looking to collaborate on Selenium, Cypress, Karate, Appium, Rest Assured
-- 📫 How to reach me raparthiqa18@gmail.com
+- 🌱 I’m currently learning Python and PlayWright
+- 💞️ I’m looking to collaborate on Selenium, Karate, Appium, Rest Assured and Python
+- 📫 How to reach me => raparthiqa18@gmail.com
 
 <!---
 raparthiqa18/raparthiqa18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
