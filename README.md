@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakesh Raparthi
 - 👀 I’m interested in learning Testing libraries, Test frameworks, programming languages
 - 🌱 I’m currently learning Python and PlayWright
-- 💞️ I’m looking to collaborate on Selenium, Karate, Appium, Rest Assured and Python
+- 💞️ I’m looking to collaborate on Selenium, Karate, Appium and Rest Assured
 - 📫 How to reach me => raparthiqa18@gmail.com
 
 <!---
